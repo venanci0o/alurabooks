@@ -1,7 +1,6 @@
 
 ![Gotta blog 'em all!](https://github.com/venanci0o/alurabooks/assets/91642565/5d1c6fde-3033-4c3a-9b9a-0f83a925ce6e)
 
-
 # Site protótipo para o alurabooks
 
 <p align="center">
